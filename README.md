@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# What is Shesha?
+# What is Shesha?!
 
 <p>Shesha is an open-source Low-Code development framework specifically for .NET developers. You can build anything from simple CRUD apps, admin panels to complex business applications super quickly.</p>
 
@@ -108,3 +108,4 @@ Let's build great software together!
 ## License
 
 Shesha is available under the [Apache License 2.0](https://github.com/shesha-io/shesha-framework/blob/main/LICENSE.md). Use it wisely!
+
